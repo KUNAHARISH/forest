@@ -1,0 +1,17 @@
+names:
+- Lion
+- cat
+- chicken
+- cow
+- dog
+- elephant
+- fox
+- goat
+- horse
+- person
+- raccoon
+- skunk
+nc: 12
+test: C:\Users\USER\Desktop\ai project\dataset\test.txt
+train: C:\Users\USER\Desktop\ai project\dataset\train.txt
+val: C:\Users\USER\Desktop\ai project\dataset\valid.txt
